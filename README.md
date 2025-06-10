@@ -18,7 +18,7 @@ This is a RESTful Note API built with Kotlin, Spring Boot, and MongoDB. It allow
 
 * Kotlin: Primary programming language used to build the backend.
 * Springboot: Framework for creating scalable, production-ready RESTful APIs.
-* MangoDB: NoSQL database used for flexible and scalable data storage.
+* MongoDB: NoSQL database used for flexible and scalable data storage.
 * JWT (JSON Web Token): Used for secure user authentication and authorization.
 
 
